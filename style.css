@@ -79,7 +79,7 @@
   }
   
   .hero-section .text p {
-    font-size: 50px;
+    font-size: 25px;
   }
 
   .hero-section .text .links {
@@ -109,7 +109,7 @@
   
   .hero-section .headshot img {
     width: 350px;
-    border-radius: 50%;
+    border-radius: 50px;
   }
   
   /* SECTION 2: Skills */
@@ -231,6 +231,11 @@
     display: flex;
     align-items: center;
     gap: 50px;
+  }
+
+  .testimony-section .group .text h1{
+    font-size: 25px;
+    font-weight: 100;
   }
   
   .testimony-section .group .person-details {
